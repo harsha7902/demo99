@@ -11,6 +11,7 @@ import demo99.utilities.WaitUtility;
 
 
 public class RegisterPage {
+//	new edit
 	WebDriver driver;
 	@FindBy(name="firstName")
 	WebElement firstName;
